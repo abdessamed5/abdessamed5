@@ -6,7 +6,7 @@
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=abdessamed5&color=blueviolet&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
-  <a href="https://twitter.com/acm_saveg">
+  <a href="https://twitter.com/AcmSaveg">
     <img src="https://img.shields.io/twitter/follow/acm_saveg?logo=twitter&style=for-the-badge&color=1DA1F2" alt="Twitter Follow" />
   </a>
 </div>
