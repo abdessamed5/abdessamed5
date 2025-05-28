@@ -20,7 +20,6 @@ class Abdessamed:
     def __init__(self):
         self.name = "Abdessamed"
         self.role = "Computer Science Student"
-        self.location = "Algeria 🇩🇿"
         self.languages = ["Python", "Java", "C", "JavaScript"]
         self.frameworks = ["Django", "React"]
         self.interests = ["Web Development", "Software Engineering", "Open Source"]
