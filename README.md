@@ -62,19 +62,13 @@ me.say_hi()
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdessamed5&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180em" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdessamed5&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
+
 
 ## 🏆 GitHub Trophies
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=abdessamed5&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
 </div>
 
-## 📈 Activity Graph
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdessamed5&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
-</div>
 
 ## 🤝 Connect with Me
 
