@@ -103,7 +103,7 @@ me.say_hi()
 <div align="center">
 
 <a href="https://abdessamed5.github.io/portfolio/">
-    
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Passionate+Developer;Problem+Solver;Always+Learning!" alt="Typing SVG" />
   </a>
 
 
